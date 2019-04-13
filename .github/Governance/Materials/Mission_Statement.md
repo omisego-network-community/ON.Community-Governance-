@@ -1,3 +1,5 @@
+# OMG NETWORK COMMUNITY MISSION STATEMENT
+
 The OmiseGO Network Community ("ONC" or "ON.Community") is a self-governed organization dedicated to the growth and promotion of the OmiseGO Network ("OMG Network"), a public good to help secure and scale decentralized financial services across geographies, asset classes and applications.
 
 The OMG Network project was launched in 2017 by OmiseGO Pte., Ltd. ("OmiseGO") as a fully open source initiative, publicly funded via ICO. Growing from this initiative, ONC has self-organized to advance their common values, interests, and goals. We share a vision with OmiseGO but hope to serve a different and synergistic purpose.
