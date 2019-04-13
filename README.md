@@ -11,6 +11,7 @@ Building on the efforts of OmiseGO community member, Kartsims, who originated a 
 
 * ***[ETHEREUM COMMUNITY CODE OF CONDUCT](.github/Governance/Materials/Code_of_Conduct.md)***
 
+### ON.Community Members
 The following have assented to these organizing governance materials to initiate a Chaordic Commons as the OMG Network Community ("ONC" or "ON.Community"):
 
 * **Ross Campbell** // *OMGPool*
