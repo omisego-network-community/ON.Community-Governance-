@@ -1,7 +1,7 @@
 # ON.Community Governance
 Collection of ON.Community Governance Materials 📚
 
-## [ON.Community Aragon organization on Ethereum mainnet](https://mainnet.aragon.org/#/oncommunity.aragonid.eth)  
+## [ON.Community Aragon organization on Ethereum mainnet](https://mainnet.aragon.org/#/oncommunity.aragonid.eth) 🦅 
 
 ## Background
 
