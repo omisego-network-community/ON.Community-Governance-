@@ -16,8 +16,6 @@ Building on the efforts of OmiseGO community member, Kartsims, who originated a 
 ### ON.Community Members
 The following have assented to these organizing governance materials to initiate a Chaordic Commons as the OMG Network Community ("ONC" or "ON.Community"):
 
-* **Ross Campbell** // *OMGPool* // 0x1409f15D77F28882C220860d5F534A1A7a9F3481 
-
 # Cooperative Membership
 | Keybase Name | Ethereum Address |
 |----------|:-------------:|
