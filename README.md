@@ -3,9 +3,9 @@ Collection of ON.Community Governance Materials 📚
 
 ## [ON.Community Cooperative on Ethereum mainnet](https://mainnet.aragon.org/#/oncommunity.aragonid.eth) 🦅 
 ### ON.CC Bounty System 💸
->* ON.Community Cooperative ("ON.CC") consists of registered ONC members (see below "Membership") who will initially vote on bounty proposals for community resources, make additional membership rules, as well as establish other high-level priorities.
->* Requests for Reimbursement ("RFR") can be made via the [ON.CC Finance Application](https://mainnet.aragon.org/#/oncommunity.aragonid.eth/0x68db69930aefb0277384865ae92c2cd1acc87145), by submitting a withdrawal in the selected reimbursent asset for a chosen Ethereum address. For greater chances of success, it is highly recommended to include a multisignature address in such withdrawal request as well as to give a detailed description in the RFR that allows sufficient 'proof of work' to ON.CC members.
->* Requests for Funding ("RFF") can be made via the [ON.CC Voting Application](https://mainnet.aragon.org/#/oncommunity.aragonid.eth/0xae974ac35f728a51a8b685dda53c675116b2a76b), and if such RFF is approved, ON.CC members shall commit to timely review and decision on any related RFR(s).
+>* **ON.Community Cooperative ("ON.CC")** consists of registered ONC members (see below "Membership") who will initially vote on bounty proposals for community resources, make additional membership rules, as well as establish other high-level priorities.
+>* **Requests for Reimbursement ("RFR")** can be made via the [ON.CC Finance Application](https://mainnet.aragon.org/#/oncommunity.aragonid.eth/0x68db69930aefb0277384865ae92c2cd1acc87145) by submitting a withdrawal in the selected reimbursent asset for a chosen Ethereum address. For greater chances of success, it is highly recommended to include a multisignature address in such withdrawal request as well as to give a detailed description in the RFR that allows sufficient 'proof of work' to ON.CC members.
+>* **Requests for Funding ("RFF")** can be made via the [ON.CC Voting Application](https://mainnet.aragon.org/#/oncommunity.aragonid.eth/0xae974ac35f728a51a8b685dda53c675116b2a76b) and if such RFF is approved, ON.CC members shall commit to timely review and decision on any related RFR(s).
 
 ## Background
 
