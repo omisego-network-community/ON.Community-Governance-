@@ -24,4 +24,5 @@ The following have assented to these organizing governance materials to initiate
 | Keybase Name | Ethereum Address |
 |----------|:-------------:|
 | [@ro5s](https://keybase.io/ro5s) | `0x1409f15D77F28882C220860d5F534A1A7a9F3481` |
+| [@nebali](https://keybase.io/nebali) | `0xcE1d57A86628fb54a0692715f1CB6ba61973C888` |
 | | |
