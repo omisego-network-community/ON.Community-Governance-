@@ -1,6 +1,8 @@
 # ON.Community Governance
 Collection of ON.Community Governance Materials 📚
 
+## [ON.Community Forum](https://forum.omgnetwork.org/) 🗣️
+
 ## [ON.Community Cooperative on Ethereum mainnet](https://mainnet.aragon.org/#/oncommunity.aragonid.eth) 🦅 
 ### ON.CC Bounty System 💸
 >* **ON.Community Cooperative ("ON.CC")** consists of registered ONC members (see below "Membership") who will initially vote on bounty proposals for community resources, make additional membership rules, as well as establish other high-level priorities.
