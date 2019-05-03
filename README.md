@@ -23,8 +23,8 @@ Building on the efforts of OmiseGO community member, Kartsims, who originated a 
 The following have assented to these organizing governance materials to initiate a Chaordic Commons as the OMG Network Community ("ONC" or "ON.Community"):
 
 # Cooperative Membership
-| Keybase Name | Ethereum Address |
+| Forum / Keybase Name | Ethereum Address |
 |----------|:-------------:|
 | [@ro5s](https://keybase.io/ro5s) | `0x1409f15D77F28882C220860d5F534A1A7a9F3481` |
 | [@nebali](https://keybase.io/nebali) | `0xcE1d57A86628fb54a0692715f1CB6ba61973C888` |
-| | |
+| [@Crypto_Analysis](https://forum.omgnetwork.org/u/crypto_analysis)| `0xbD0bEC236cb09C73dCc8669Ce1888f0a20ED8cC7`|
