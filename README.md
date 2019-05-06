@@ -26,5 +26,5 @@ The following have assented to these organizing governance materials to initiate
 | Forum / Keybase Name | Ethereum Address |
 |----------|:-------------:|
 | [@ro5s](https://keybase.io/ro5s) | `0x1409f15D77F28882C220860d5F534A1A7a9F3481` |
-| [@nebali](https://keybase.io/nebali) | `0xcE1d57A86628fb54a0692715f1CB6ba61973C888` |
+| [@nebali](https://keybase.io/nebali) | `0xCd900fFFF68A8ec953F57A0d2aeE395520B26039` |
 | [@Crypto_Analysis](https://forum.omgnetwork.org/u/crypto_analysis)| `0xbD0bEC236cb09C73dCc8669Ce1888f0a20ED8cC7`|
