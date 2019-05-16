@@ -1,6 +1,8 @@
 # ON.Community Governance
 Collection of ON.Community Governance Materials 📚
 
+🔥 **[ONC Manifesto](.github/Governance/Materials/ONC_Manifesto.md)** 🔥
+
 ## [ON.Community Forum](https://forum.omgnetwork.org/) 🗣️
 
 ## [ON.Community Cooperative on Ethereum mainnet](https://mainnet.aragon.org/#/oncommunity.aragonid.eth) 🦅 
