@@ -1,0 +1,15 @@
+*ONC* stands for “OMG Network Community,” or *Open Network Community* if you prefer. 
+ 
+*ONC* is intended to be a place where we can explore the ideas that inspired and motivated us in the early days of learning about OMG, and look beyond initiatives that directly serve OmiseGO’s interests. OmiseGO does not run *ONC*. Here they are not accountable to us, nor are we accountable to them. 
+
+It’s time for the OMG community to take responsibility for its own interests and assert independence to achieve them. By creating a truly autonomous community online and distributed globally as *ONC*, we hope to open up productive discussions about how to create maximum benefit for all stakeholders, aligning incentives without granting default privilege to the needs of any one entity or group.
+
+Currently there is a single team (OmiseGO) working toward the OMG vision. Sole oversight by any one entity, no matter how competent, represents a single point of failure. We believe diversifying efforts into *ONC*  - whether that means exploring new revenue models, bartering or collaborating with other teams in the ecosystem, experimenting with iterations on the current design, considering the possibilities offered by platforms other than Ethereum or whatever else we haven’t thought of yet – will greatly improve the chances of collectively achieving the central goals of the OMG Network. 
+
+We appreciate OmiseGO’s efforts and welcome the company and every member of its team as equal participants. We also welcome those who work on other projects, including those working on “competitor” platforms. Interoperability is a core aspect of the OMG vision, and we believe we are more likely to get what we want through incentive-aligned cooperation than winner-takes-all competition. 
+ 
+These are our broad goals. Turning to concrete action in the near future, you are welcome to explore this forum, but for the time being, you will need to create an account in order to comment or post. In addition to this forum, we have created an Aragon cooperative DAO to vote on *ONC* decisions, as well as to propose and award bounties to community members who make significant contributions. 
+ 
+Any forum participant can request to be added to the DAO by posting to the *ONC* forum with an Ethereum address and some form of persistent online identity. This is intended only for a reasonable attempt at “proof of individual” and to allow voters to make an informed decision – it does not need to include any personal identifying information. A proposal to add the new member will then be introduced and voted on by existing members of the *ONC* coop. 
+ 
+Whatever trail you followed to reach this page, welcome to the party! We’re looking forward to experimenting together and we hope you’ll join us. We encourage you to post ideas, commentary, design proposals, code, topics you’d like help understanding, pictures of your cat or anything else you find interesting and inspiring. The way we see it, there are no wrong avenues to explore – and no limits on what we can do together.
