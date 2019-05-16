@@ -1,7 +1,7 @@
 # ON.Community Governance
 Collection of ON.Community Governance Materials 📚
 
-🔥 **[ONC Manifesto](.github/Governance/Materials/ONC_Manifesto.md)** 🔥
+🔥 **[ONC Manifesto](.github/Governance/Materials/Manifesto.md)** 🔥
 
 ## [ON.Community Forum](https://forum.omgnetwork.org/) 🗣️
 
