@@ -31,3 +31,4 @@ The following have assented to these organizing governance materials to initiate
 | [@nebali](https://keybase.io/nebali) | `0xCd900fFFF68A8ec953F57A0d2aeE395520B26039` |
 | [@Crypto_Analysis](https://forum.omgnetwork.org/u/crypto_analysis)| `0xbD0bEC236cb09C73dCc8669Ce1888f0a20ED8cC7`|
 | [@AA](https://forum.omgnetwork.org/u/aa/summary)| `0xEB1F43495F43703fA67846A6a5814D48976C0DEA`|
+| [@metaflute](https://forum.omgnetwork.org/u/metaflute/summary) | `0x5Ddd2DEdFDafE253d5C09a12426d28390a444360`|
